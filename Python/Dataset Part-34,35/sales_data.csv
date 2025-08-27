@@ -1,0 +1,6 @@
+Sale Date,Product,Region,Sales,Value
+2023-01-01,A,North,100.0,10.5
+2023-01-02,B,South,150.0,20.3
+2023-01-03,A,North,200.0,
+2023-01-04,C,East,,15.2
+2023-01-05,B,South,175.0,18.7
