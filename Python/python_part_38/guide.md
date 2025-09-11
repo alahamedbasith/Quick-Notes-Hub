@@ -66,24 +66,6 @@ demo.launch()
 
 ---
 
-# 🟦 Streamlit Advantages
-
-* 📊 Excellent for **data science dashboards** (charts, tables, filters).
-* 🎨 Highly customizable layouts and themes.
-* 📑 Supports **multipage apps** natively.
-* ⚙️ Built-in caching for faster performance.
-* 🔌 Strong ecosystem (e.g., Streamlit-AgGrid, forms, authentication).
-
----
-
-# 🔴 Streamlit Disadvantages
-
-* 🛠️ **More coding** needed for ML integration (no Hugging Face shortcut).
-* 🎤 Media support (audio/video/chatbot) is weaker compared to Gradio.
-* 🚀 Deployment not as smooth as Hugging Face Spaces.
-
----
-
 # ✅ When to Use Which?
 
 * **Use Gradio if**:
@@ -113,4 +95,5 @@ demo.launch()
 * Multiple Functions
 * Live Mode
 * Connecting to ML Models    
+
 
